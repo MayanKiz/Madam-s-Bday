@@ -56,7 +56,7 @@ export default function Countdown({ targetDate, onCountdownEnd }) {
           ease: "easeInOut",
         }}
       >
-        Your Special Day is Almost Here💕
+        Your Special Day is Almost Here Madamji💕
       </motion.h1>
 
       <div className="flex flex-wrap justify-center gap-4 mb-8">
@@ -88,6 +88,8 @@ export default function Countdown({ targetDate, onCountdownEnd }) {
       >
         <p className="text-lg text-purple-700 mb-4">
           Just a little more... A small gift for my favorite person❤️
+When the countdown ends, the next surprise will be unlocked. 
+
         </p>
 
         <div className="flex justify-center space-x-2">
