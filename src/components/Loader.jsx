@@ -106,6 +106,7 @@ function Loader() {
           }}
         >
           Loading something special...
+For You Mohtarma
         </motion.p>
 
         {/* Cute emojis */}
